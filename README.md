@@ -1,4 +1,4 @@
-# What is cat?
+# What is mv?
 mv is a command for renaming a file from terminal in UNIX/Linux operating systems.
 
 # Why?
